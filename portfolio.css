@@ -581,17 +581,3 @@ span i {
   transition: all linear 0.2s;
 }
 
-/* @media only screen and (max-width:1201px)  {
-  .center-txt{
-    flex-direction: column;
-    width: max-content;
-    margin:3% auto ;
-  }
-  @media only screen and (max-width720px) {
-  #r-img{
-    height: 250px;
-    width: 250px;
-    margin: 4% auto;
-  }
-}
-} */
